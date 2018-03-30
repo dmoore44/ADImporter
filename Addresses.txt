@@ -1,7 +1,4 @@
 City,Street,State,PostalCode,Country
-BETTWS NEWYDD,33 Northgate Street,Eng,BD233BB,GB
-BIGBY,89 Northgate Street,Eng,PH88JX,GB
-OLD RAYNE,44 Horsefair Green,Eng,BA122QR,GB
-Aachen,Kapellenstr 15-19,Nordrhein-Westfalen,52078,GB
-Aachen,Steinkaulplatz 12,Nordrhein-Westfalen,52078,GB
-Aachen,Trierer Str 366,Nordrhein-Westfalen,52078,GB
+South Windsor,70 Bowman Street,CT,06074,US
+Orlando,514 South Magnolia Street,FL,32806,US
+Chicago,44 Shirley Avenue,IL,60185,US
