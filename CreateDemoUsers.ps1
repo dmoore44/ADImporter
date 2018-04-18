@@ -48,6 +48,7 @@ $lastNameFile = "Lastnames.txt"              # Format: LastName
 $addressFile = "Addresses.txt"               # Format: City,Street,State,PostalCode,Country
 $postalAreaFile = "PostalAreaCode.txt"       # Format: PostalCode,PhoneAreaCode
 $passwordsFile = "Passwords.txt"
+$employeeNumber = 0
 
 #
 # Read input files
@@ -86,7 +87,7 @@ for ($i = 1; $i -le $locationCount; $i++)
    #{
    #   $addressIndex = Get-Random -Minimum 0 -Maximum $addresses.Count
    #} while ($addressIndexesUsed -contains $addressIndex)
-   
+   $addressIndex = $i - 1
    # Store the address in a location variable
    $street = $addresses[$addressIndex].Street
    $city = $addresses[$addressIndex].City
