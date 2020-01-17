@@ -34,7 +34,7 @@ Active directory user accounts created by the PowerShell script
 
 # Realism
 
-In order to create realistic results we need data, lists: firstnames, surnames, addresses and a mapping between postal and phone area codes. The script CreateDemoUsers.ps1 expects separate CSV files for each of these. I have included some files with assorted information for UK addresses, and assorted nationality names.
+In order to create realistic results we need data, lists: firstnames, surnames, addresses and a mapping between postal and phone area codes. The script CreateDemoUsers.ps1 expects separate CSV files for each of these.
 
 If you want your users to “live” in another country you need to provide the lists yourself.
 
